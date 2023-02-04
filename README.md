@@ -58,8 +58,7 @@
 
 > Clone this repository to your desired folder:
 
-- git clone https://github.com/LoviMadaan/My-Portfolio.git
-
+- git clone https://github.com/LoviMadaan/Bootstrap.git
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="Lovi MAdaan"></a>
